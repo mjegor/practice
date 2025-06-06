@@ -1,0 +1,34 @@
+/*.my-box {
+  width: 200px;
+  height: 100px;
+  background-color: gray;
+}
+.square-container {
+  display: flex; /* Для центрирования квадрата */
+/*  justify-content: center;
+  align-items: center;
+  height: 200px; /* Высота контейнера */
+/*}
+
+/*.square {
+  width: 100px; /* Ширина квадрата */
+/*  height: 100px; /* Высота квадрата */
+ /* background-color: blue; /* Заливка цветом */
+  /* background-image: url('путь_к_изображению.png'); /* Заливка картинкой */
+  /* background-size: cover; /* Для масштабирования картинки */
+ /* border: 2px solid black; /* Добавляет границу для видимости */
+/*}
+
+.flex-container {
+  display: flex;
+  flex-direction: row; /* или column, row-reverse, column-reverse */
+ /* justify-content: space-between; /* или flex-start, flex-end, center, space-around, space-evenly */
+ /* align-items: center; /* или flex-start, flex-end, center, baseline, stretch */
+ /* flex-wrap: wrap; /* или nowrap, wrap-reverse */
+/*}
+
+.flex-item {
+  flex-grow: 1; /* Если элементы должны равномерно расти */
+ /* flex-shrink: 1; /* Если элементы должны равномерно уменьшаться */
+  /* flex-basis: 100px;  Если нужно задать начальную ширину/высоту */
+/*}
